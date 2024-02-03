@@ -1,3 +1,5 @@
+![Alt Text][html.png]
+--
 # Project Title
 
 DevOps Project: Hosting a Static HTML Web App on AWS
