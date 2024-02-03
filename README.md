@@ -1,4 +1,5 @@
-![Alt Text][2.jpeg]
+![Alt Text](2.jpeg)
+
 --
 # Project Title
 
